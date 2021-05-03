@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.bodyPart {
+  float: left;
+}
+
+.selectSection {
+  position: fixed;
+}
+
+.selectSection h2 {
+  margin: 2px 23px 5px 1195px;
+  position: fixed;
+}
+
+.totalSection {
+  margin: 40px 23px 5px 1195px;
+  position: fixed;
+}
+
+.playerList {
+  margin: 100px 0px 0px 1200px;
+  position: fixed;
+  width: 280px;
+}

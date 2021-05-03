@@ -1,0 +1,19 @@
+.check{
+    float: left;
+    padding-bottom: 20px;
+}
+
+.try {
+    margin: 10px 0px 10px 25px;
+    text-align: center;
+    padding: 0px 0px;
+    width: 360px;
+    height: 420px;
+    box-shadow: 5px 10px 30px #888888;
+    
+}
+
+.try img {
+    height: 250px;
+    width: 360px;
+}
